@@ -616,6 +616,7 @@ a:focus {
 
 .event_section .event_container .box .detail-box h4 {
   font-weight: bold;
+  text-align: center;
 }
 
 .event_section .event_container .box .detail-box h6 {
